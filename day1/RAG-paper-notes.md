@@ -78,7 +78,12 @@ $$
 # 相似度计算
 点积，余弦，欧式距离
 
+# Contrastive Learning with SimCLR
+Family of self-supervised larning methods
+4096-8192
+
 # 我的理解:
 - TF-IDF属于稀疏向量空间模型，而RAG用的稠密向量模型。是为了解决什么问题呢？
 当我们回答一些像近词义的词时，如果用TF-IDF可能就会查询失败，因为TF-IDF是基于词频的，
 - 稀疏向量空间模型是高纬度的，稠密向量是低纬度的
+
